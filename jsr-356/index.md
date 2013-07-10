@@ -3,7 +3,7 @@ layout: post
 title : Java™ API for WebSocket
 ---
 
-{{ post.title }}
+{{ page.title }}
 ================
 
 <div class="jsr-version">
