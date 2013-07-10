@@ -1,0 +1,11 @@
+auto:             true
+
+markdown:         rdiscount
+pygments:         true
+paginate:         6
+permalink:        /title
+
+title:            JSR 中文翻译计划
+url:              http://jsr-cn.org
+feed:             /atom.xml
+description:      JSR 中文翻译计划
