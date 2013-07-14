@@ -18,6 +18,7 @@ Contents:
 
    introduction
    applications
+   configuration
 
 To be continum...
 
